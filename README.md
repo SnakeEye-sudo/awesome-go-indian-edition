@@ -1,3 +1,6 @@
+<!-- AWESOME GO - INDIAN EDITION -->
+<!-- Enhanced for Indian Developers with Hindi Docs and Local Examples -->
+
 # Awesome Go
 
 <a href="https://awesome-go.com/"><img align="right" src="https://github.com/avelino/awesome-go/raw/main/tmpl/assets/logo.png" alt="awesome-go" title="awesome-go" /></a>
@@ -3778,6 +3781,24 @@ _Add the group of your city/country here (send **PR**)_
 - [The Go Skill Tree](https://labex.io/skilltrees/go) - A structured learning path that combines both free and premium resources.
 
 **[⬆ back to top](#contents)**
+
+
+## 🇮🇳 Indian Edition Enhancements
+
+This enhanced version includes:
+
+- **Hindi Documentation** - Select libraries now have Hindi guides and explanations
+- **India-Focused Examples** - Code examples tailored for Indian developers and use cases
+- **Indian Developers Spotlight** - Highlighting Go projects built by Indian developers
+- **Local Learning Resources** - Links to Indian tutorials, workshops, and community resources
+- **Regional Tech Stack** - Libraries popular in Indian tech ecosystem
+
+### हिंदी सहायता (Hindi Support)
+
+For Hindi-language learning resources and documentation, please refer to the [HINDI.md](./HINDI.md) file.
+
+---
+
 
 ## Contribution
 
